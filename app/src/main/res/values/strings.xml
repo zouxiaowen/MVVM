@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="app_set_one">第一种设置方式</string>
+    <string name="app_set_two">第二种设置方式</string>
+</resources>
